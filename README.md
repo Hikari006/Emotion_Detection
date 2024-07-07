@@ -43,7 +43,6 @@ Apply data augmentation techniques such as rotation, scaling, and flipping to in
 Objective:
 Design a Convolutional Neural Network (CNN) to extract features from the face images and classify them.
 
-### Components of CNN:
 
 ### Convolutional Layers: 
 
