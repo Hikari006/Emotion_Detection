@@ -19,8 +19,7 @@ Objective:
 Detect faces in images using OpenCV’s pre-trained models.
 
 ### Tools and Techniques:
-
-### OpenCV: A popular library for computer vision tasks. OpenCV provides pre-trained models like Haar Cascade and DNN-based detectors for face detection.
+OpenCV: A popular library for computer vision tasks. OpenCV provides pre-trained models like Haar Cascade and DNN-based detectors for face detection.
 Process:
 
 Load the pre-trained face detection model.
