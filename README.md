@@ -93,11 +93,11 @@ Evaluate the performance of the face recognition model and fine-tune it to impro
 
 ### Metrics:
 
-### Accuracy: 
+#### Accuracy: 
 The percentage of correctly identified faces.
-### Precision and Recall: 
+#### Precision and Recall: 
 Metrics to evaluate the model's performance in distinguishing between different classes.
-### Confusion Matrix: 
+#### Confusion Matrix: 
 A tool to visualize the performance of the classification model.
 Process:
 
@@ -111,6 +111,8 @@ Techniques like transfer learning can be employed if the dataset is small, lever
 Conclusion
 Implementing face recognition using CNN and OpenCV with a Kaggle dataset involves several well-defined steps, from acquiring the dataset to training a neural network and evaluating its performance. With advancements in deep learning and computer vision, it is possible to achieve high accuracy in face recognition tasks, making it a valuable tool in various applications like security, authentication, and personalized user experiences.
 
+
+## Images
 
 ![sad_face_emo](https://github.com/Hikari006/Face_Recognition/assets/91669143/dc4b232a-8be8-4859-abc6-8711e956b0eb)
 
