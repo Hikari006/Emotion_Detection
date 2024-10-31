@@ -1,12 +1,12 @@
-# Face_Recognition
-Face Recognition using CNN and OpenCV with Kaggle Dataset
+# Emotion Detection
+Emotion Detection using CNN and OpenCV with Kaggle Dataset
 Using a Kaggle dataset for face recognition can significantly streamline the data collection and preparation process. Here's a detailed guide on implementing face recognition using CNN and OpenCV, utilizing a Kaggle dataset.
 
 Kaggle Dataset link: <https://www.kaggle.com/datasets/apollo2506/facial-recognition-dataset>
 
 ## Steps Involved:
 Dataset Acquisition
-Face Detection using OpenCV
+Emotion Detection using OpenCV
 Data Preparation
 Building the CNN Model
 Training the Model
